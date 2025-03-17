@@ -14,7 +14,7 @@ logger = logging.getLogger("solana_scanner")
 
 # Solana RPC endpoints - public nodes
 SOLANA_MAINNET_ENDPOINTS = [
-    "https://mainnet.helius-rpc.com/?api-key=b8df5aa2-2ba9-4438-bc97-99850e9dceda",
+    "https://mainnet.helius-rpc.com/?api-key=xxx",
     "https://api.mainnet-beta.solana.com",
     "https://solana-api.projectserum.com",
     "https://rpc.ankr.com/solana"
