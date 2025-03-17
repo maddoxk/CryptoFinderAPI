@@ -1,0 +1,10 @@
+web3==6.0.0
+flask==2.3.2
+requests==2.31.0
+python-dotenv==1.0.0
+gunicorn==20.1.0
+# You'll need the base64 package for Solana support
+base64io==1.0.3
+# Add these as you implement other chains
+# solana==0.29.0
+# eth-brownie==1.19.3  # for BSC and other EVM chains
